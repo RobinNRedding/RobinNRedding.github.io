@@ -1,2 +1,3 @@
 # RobinNRedding.github.io
-Accounting/Finance - Robin N Redding
+Robin N Redding
+Accounting/Finance
